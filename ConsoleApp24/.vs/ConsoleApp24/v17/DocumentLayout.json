@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\waler\\source\\repos\\consoleapp24\\consoleapp24\\chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\waler\\source\\repos\\consoleapp24\\consoleapp24\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\waler\\source\\repos\\consoleapp24\\consoleapp24\\baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\waler\\source\\repos\\consoleapp24\\consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDE6045-BF3F-49BD-A35E-608DDA9832FC}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\BaseList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\BaseList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\BaseList.cs",
+              "RelativeToolTip": "ConsoleApp24\\BaseList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:52.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChainList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\ChainList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\ChainList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\ChainList.cs",
+              "RelativeToolTip": "ConsoleApp24\\ChainList.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\ArrayList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\ArrayList.cs",
+              "RelativeToolTip": "ConsoleApp24\\ArrayList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeToolTip": "ConsoleApp24\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:17.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

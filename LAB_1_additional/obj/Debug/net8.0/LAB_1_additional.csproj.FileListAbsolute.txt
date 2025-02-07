@@ -1,0 +1,14 @@
+C:\Users\waler\source\repos\LAB_1_additional\bin\Debug\net8.0\LAB_1_additional.exe
+C:\Users\waler\source\repos\LAB_1_additional\bin\Debug\net8.0\LAB_1_additional.deps.json
+C:\Users\waler\source\repos\LAB_1_additional\bin\Debug\net8.0\LAB_1_additional.runtimeconfig.json
+C:\Users\waler\source\repos\LAB_1_additional\bin\Debug\net8.0\LAB_1_additional.dll
+C:\Users\waler\source\repos\LAB_1_additional\bin\Debug\net8.0\LAB_1_additional.pdb
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.AssemblyInfoInputs.cache
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.AssemblyInfo.cs
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.csproj.CoreCompileInputs.cache
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.dll
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\refint\LAB_1_additional.dll
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.pdb
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\LAB_1_additional.genruntimeconfig.cache
+C:\Users\waler\source\repos\LAB_1_additional\obj\Debug\net8.0\ref\LAB_1_additional.dll

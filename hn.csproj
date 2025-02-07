@@ -1,0 +1,175 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{198D6F98-7854-4441-A270-EF2BCDD124A5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>hn</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json" />
+    <None Include="ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json" />
+    <None Include="ConsoleApp1\ConsoleApp1.csproj" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.g.props" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.assets.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.BuildWithSkipAnalyzers" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache" />
+    <None Include="ConsoleApp1\obj\project.assets.json" />
+    <None Include="ConsoleApp1\obj\project.nuget.cache" />
+    <None Include="ConsoleApp2\ConsoleApp2.csproj" />
+    <None Include="ConsoleApp2\obj\ConsoleApp2.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp2\obj\ConsoleApp2.csproj.nuget.g.props" />
+    <None Include="ConsoleApp2\obj\ConsoleApp2.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.assets.cache" />
+    <None Include="ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp2\obj\project.assets.json" />
+    <None Include="ConsoleApp2\obj\project.nuget.cache" />
+    <None Include="ConsoleApp3\ConsoleApp3.csproj" />
+    <None Include="ConsoleApp3\obj\ConsoleApp3.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp3\obj\ConsoleApp3.csproj.nuget.g.props" />
+    <None Include="ConsoleApp3\obj\ConsoleApp3.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.assets.cache" />
+    <None Include="ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp3\obj\project.assets.json" />
+    <None Include="ConsoleApp3\obj\project.nuget.cache" />
+    <None Include="ConsoleApp4\ConsoleApp4.csproj" />
+    <None Include="ConsoleApp4\obj\ConsoleApp4.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp4\obj\ConsoleApp4.csproj.nuget.g.props" />
+    <None Include="ConsoleApp4\obj\ConsoleApp4.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.assets.cache" />
+    <None Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache" />
+    <None Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp4\obj\project.assets.json" />
+    <None Include="ConsoleApp4\obj\project.nuget.cache" />
+    <None Include="ConsoleApp5\ConsoleApp5.csproj" />
+    <None Include="ConsoleApp5\obj\ConsoleApp5.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp5\obj\ConsoleApp5.csproj.nuget.g.props" />
+    <None Include="ConsoleApp5\obj\ConsoleApp5.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.assets.cache" />
+    <None Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache" />
+    <None Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp5\obj\project.assets.json" />
+    <None Include="ConsoleApp5\obj\project.nuget.cache" />
+    <None Include="ConsoleApp6\ConsoleApp6.csproj" />
+    <None Include="ConsoleApp6\obj\ConsoleApp6.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp6\obj\ConsoleApp6.csproj.nuget.g.props" />
+    <None Include="ConsoleApp6\obj\ConsoleApp6.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.assets.cache" />
+    <None Include="ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp6\obj\project.assets.json" />
+    <None Include="ConsoleApp6\obj\project.nuget.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe" />
+    <Content Include="ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb" />
+    <Content Include="ConsoleApp1\ConsoleApp1.sln" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\apphost.exe" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp2\ConsoleApp2.sln" />
+    <Content Include="ConsoleApp3\ConsoleApp3.sln" />
+    <Content Include="ConsoleApp4\ConsoleApp4.sln" />
+    <Content Include="ConsoleApp4\ConsoleApp4.slnLaunch.user" />
+    <Content Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApp5\ConsoleApp5.sln" />
+    <Content Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApp6\ConsoleApp6.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleApp1\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp1\Program.cs" />
+    <Compile Include="ConsoleApp2\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp2\Program.cs" />
+    <Compile Include="ConsoleApp3\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp3\Program.cs" />
+    <Compile Include="ConsoleApp4\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp4\Program.cs" />
+    <Compile Include="ConsoleApp5\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp5\Program.cs" />
+    <Compile Include="ConsoleApp6\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp6\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\hn\v17\" />
+    <Folder Include="ConsoleApp2\bin\Debug\net8.0\" />
+    <Folder Include="ConsoleApp2\obj\Debug\net8.0\refint\" />
+    <Folder Include="ConsoleApp2\obj\Debug\net8.0\ref\" />
+    <Folder Include="ConsoleApp3\bin\Debug\net8.0\" />
+    <Folder Include="ConsoleApp3\obj\Debug\net8.0\refint\" />
+    <Folder Include="ConsoleApp3\obj\Debug\net8.0\ref\" />
+    <Folder Include="ConsoleApp4\bin\Debug\net8.0\" />
+    <Folder Include="ConsoleApp4\obj\Debug\net8.0\refint\" />
+    <Folder Include="ConsoleApp4\obj\Debug\net8.0\ref\" />
+    <Folder Include="ConsoleApp5\bin\Debug\net8.0\" />
+    <Folder Include="ConsoleApp5\obj\Debug\net8.0\refint\" />
+    <Folder Include="ConsoleApp5\obj\Debug\net8.0\ref\" />
+    <Folder Include="ConsoleApp6\bin\Debug\net8.0\" />
+    <Folder Include="ConsoleApp6\obj\Debug\net8.0\refint\" />
+    <Folder Include="ConsoleApp6\obj\Debug\net8.0\ref\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

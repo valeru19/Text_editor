@@ -1,0 +1,4 @@
+C:\Users\waler\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waler\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\waler\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\waler\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache

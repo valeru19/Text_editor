@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|c:\\users\\waler\\source\\repos\\lab_3_ev\\chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|solutionrelative:chainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|c:\\users\\waler\\source\\repos\\lab_3_ev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|c:\\users\\waler\\source\\repos\\lab_3_ev\\baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|solutionrelative:baselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|c:\\users\\waler\\source\\repos\\lab_3_ev\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB56EE33-81A3-466F-AAC4-9135A1E4B7EC}|LAB_3_ev.csproj|solutionrelative:arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAEwGoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:08:59.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChainList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\ChainList.cs",
+              "RelativeDocumentMoniker": "ChainList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\ChainList.cs",
+              "RelativeToolTip": "ChainList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:08:58.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\BaseList.cs",
+              "RelativeDocumentMoniker": "BaseList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\BaseList.cs",
+              "RelativeToolTip": "BaseList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:08:55.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\ArrayList.cs",
+              "RelativeDocumentMoniker": "ArrayList.cs",
+              "ToolTip": "C:\\Users\\waler\\source\\repos\\LAB_3_ev\\ArrayList.cs",
+              "RelativeToolTip": "ArrayList.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:08:46.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

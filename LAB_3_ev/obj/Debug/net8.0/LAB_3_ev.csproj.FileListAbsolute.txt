@@ -1,0 +1,14 @@
+C:\Users\waler\source\repos\LAB_3_ev\bin\Debug\net8.0\LAB_3_ev.exe
+C:\Users\waler\source\repos\LAB_3_ev\bin\Debug\net8.0\LAB_3_ev.deps.json
+C:\Users\waler\source\repos\LAB_3_ev\bin\Debug\net8.0\LAB_3_ev.runtimeconfig.json
+C:\Users\waler\source\repos\LAB_3_ev\bin\Debug\net8.0\LAB_3_ev.dll
+C:\Users\waler\source\repos\LAB_3_ev\bin\Debug\net8.0\LAB_3_ev.pdb
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.AssemblyInfoInputs.cache
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.AssemblyInfo.cs
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.csproj.CoreCompileInputs.cache
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.dll
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\refint\LAB_3_ev.dll
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.pdb
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\LAB_3_ev.genruntimeconfig.cache
+C:\Users\waler\source\repos\LAB_3_ev\obj\Debug\net8.0\ref\LAB_3_ev.dll
